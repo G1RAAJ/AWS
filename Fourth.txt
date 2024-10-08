@@ -1,0 +1,1 @@
+Four indexes are East, west, North, South
